@@ -33,6 +33,7 @@ function App() {
           currentSection={currentSection}
           setCurrentSection={setCurrentSection}
         />
+        {renderPage(currentSection)}
       </div>
       <Footer />
     </div>
