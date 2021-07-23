@@ -1,10 +1,10 @@
 :root {
 	/* --primaryColor: #52796f; */
-	--primaryColor: rgb(249, 250, 250);
-	--secondColor: #354f52;
-	--thirdColor: #748ac6;
-	--fontColor: whitesmoke;
-	--fontSecond: #2f3e46;
+	--primaryColor: rgb(255, 255, 255);
+	--secondColor: #616161;
+	--thirdColor: #616161;
+	--fontColor: rgb(8, 8, 8);
+	--fontSecond: #000000;
 	/* --primaryColor: teal; */
 	/* --secondColor: rgb(6, 95, 107); */
 	/* --thirdColor: rgb(143, 69, 143);  */
@@ -44,7 +44,7 @@ a {
 	background-color: var(--secondColor);
 	border-radius: 5px;
 	padding: 2% 5%;
-	color: whitesmoke;
+	color: rgb(129, 9, 9);
 	line-height: 2rem;
 }
 
@@ -120,7 +120,7 @@ nav li {
 	max-width: 50%;
 	border-radius: 5px;
 	padding: 2% 5%;
-	color: whitesmoke;
+	color: rgb(255, 255, 255);
 	line-height: 2rem;
 }
 

@@ -33,7 +33,7 @@ function About() {
                     I'm a Full Stack JavaScript Developer specializing in the
                     MERN stack and capable in creating responsive web
                     applications. I've earned a Full Stack Development
-                    Certificate from SMU (Souther Methodist University) Coding
+                    Certificate from SMU (Southern Methodist University) Coding
                     Bootcamp.
                     <br />
                     I have created multiple projects using front-end technology
